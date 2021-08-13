@@ -1,6 +1,6 @@
 {
   "agent": {
-   "metrics_collection_interval": 3660,
+   "metrics_collection_interval": 600,
    "logfile": "/home/ec2-user/SageMaker/amazon-cloudwatch-agent.log",
    "debug": false
   },
