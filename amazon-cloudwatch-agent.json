@@ -19,7 +19,6 @@
       },
       "mem": {
         "measurement": [ "mem_used_percent" ],
-        "metrics_collection_interval": 3660,
         "append_dimensions": { "notebook_instance_name": "MyNotebookInstance" }
       }
     }
